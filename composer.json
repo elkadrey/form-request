@@ -1,5 +1,5 @@
 {
-    "name": "anik/form-request",
+    "name": "elkadrey/form-request",
     "description": "Form request is a package for Lumen that lets developer validate form requests like Laravel does.",
     "keywords": [
         "lumen",
